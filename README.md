@@ -1,6 +1,16 @@
 # NYC-Taxi-End-To-End-Project
 
-# Architecture
+- A complete end-to-end data engineering project that replicates a real-world data pipeline using the NYC Taxi dataset.
+- Built using Azure Data Factory, Azure Data Lake Gen2, Databricks, and Delta Lake, following the Medallion Architecture (Bronze, Silver, Gold).
+
+--- 
+
+# 🏗️ Architecture
+- Data ingestion from a public API using Azure Data Factory (ADF)
+- Storing raw, cleaned, and aggregated data in Azure Data Lake Gen2 (Bronze → Silver → Gold)
+- Data transformation using PySpark in Azure Databricks
+- Storing transformed data in Delta Lake format with time travel and versioning
+- Serving the final Gold layer data to Power BI for visualization
 <img width="1564" height="1116" alt="NYC TAXI Architecture" src="https://github.com/user-attachments/assets/a10c52c2-6997-4125-b60a-5dc55d19fa21" />
 
 # Resource Group
