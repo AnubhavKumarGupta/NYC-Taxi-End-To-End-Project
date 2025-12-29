@@ -2,7 +2,8 @@
 
 ## 🎯 Project Overview
 
-A comprehensive real-time data engineering solution that demonstrates **end-to-end automation** of data pipelines using modern cloud technologies. This project processes NYC Green Taxi Trip Records (2023) using the **Medallion Architecture** (Bronze-Silver-Gold) pattern, showcasing industry-standard practices for data ingestion, transformation, and analytics.
+- A comprehensive real-time data engineering solution that demonstrates **end-to-end automation** of data pipelines using modern cloud technologies.
+- This project processes NYC Green Taxi Trip Records (2024) using the **Medallion Architecture** (Bronze-Silver-Gold) pattern, showcasing industry-standard practices for data ingestion, transformation, and analytics.
 
 ### Why This Project Stands Out
 - ✅ **Real-time API ingestion** instead of manual uploads
