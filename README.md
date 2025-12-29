@@ -179,7 +179,7 @@ graph LR
 ✅ **Security**: Implemented managed identities for authentication  
 ✅ **Data Visualization**: Connected processed data to BI tools  
 
-## Snaps
+## 📸 Snaps
 <img width="1920" height="816" alt="image" src="https://github.com/user-attachments/assets/5a816998-6d37-44ba-bec7-d33d2c89bea2" />
 -
 <img width="1920" height="856" alt="image" src="https://github.com/user-attachments/assets/67ccffd4-02fb-4e4c-99d9-d32df0a2d92f" />
