@@ -198,15 +198,11 @@ graph LR
 
 Contributions, issues, and feature requests are welcome!
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/AnubhavKumarGupta)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [Anubhav Kumar Gupta](https://github.com/AnubhavKumarGupta)
+- LinkedIn: [Anubhav Kumar Gupta(https://www.linkedin.com/in/anubhav2109/)
 
 ---
 
