@@ -1,44 +1,3 @@
-
-
-# 📦 Resource Group
-This shows the Azure Resource Group that contains all the required services for this project, such as:
-- Azure Data Factory
-- Azure Storage Account (Data Lake Gen2)
-- Azure Databricks 
-
-Each resource is logically grouped for better organization and management.
-
-<img width="1920" height="816" alt="image" src="https://github.com/user-attachments/assets/5a816998-6d37-44ba-bec7-d33d2c89bea2" />
-
-
-# Medeallion Architecture 
-This shows the container structure inside Azure Data Lake Gen2. It includes:
-
-- **bronze** → Raw API and source data files
-- **silver** → Cleaned and structured data after transformation
-- **gold** → Final aggregated data ready for analytics and reporting
-
-This structure follows the Medallion Architecture pattern.
-
-<img width="1920" height="856" alt="image" src="https://github.com/user-attachments/assets/67ccffd4-02fb-4e4c-99d9-d32df0a2d92f" />
-
-## Bronze Layer
-
-<img width="1918" height="720" alt="image" src="https://github.com/user-attachments/assets/1bf85232-852d-4b50-9958-cf498809c5c9" />
-
-##
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/edb2efb1-addd-4313-b8e8-11a375efc47f" />
-
-
-
-##
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7855f7e0-b12a-473b-897d-a98b9f7a4e5e" />
-
-
---------------------------------------------------------------------------------------------------------------------------------------
-
 # 🚀 End-to-End NYC Taxi Data Engineering Project
 
 ## 🎯 Project Overview
@@ -218,6 +177,17 @@ graph LR
 ✅ **Delta Lake Mastery**: Applied ACID transactions and time travel  
 ✅ **Security**: Implemented managed identities for authentication  
 ✅ **Data Visualization**: Connected processed data to BI tools  
+
+## Snaps
+<img width="1920" height="816" alt="image" src="https://github.com/user-attachments/assets/5a816998-6d37-44ba-bec7-d33d2c89bea2" />
+-
+<img width="1920" height="856" alt="image" src="https://github.com/user-attachments/assets/67ccffd4-02fb-4e4c-99d9-d32df0a2d92f" />
+-
+<img width="1918" height="720" alt="image" src="https://github.com/user-attachments/assets/1bf85232-852d-4b50-9958-cf498809c5c9" />
+- 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/edb2efb1-addd-4313-b8e8-11a375efc47f" />
+- 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7855f7e0-b12a-473b-897d-a98b9f7a4e5e" />
 
 ## 🤝 Contributing
 
