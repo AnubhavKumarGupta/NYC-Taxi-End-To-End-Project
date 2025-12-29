@@ -202,7 +202,7 @@ Contributions, issues, and feature requests are welcome!
 
 **Your Name**
 - GitHub: [Anubhav Kumar Gupta](https://github.com/AnubhavKumarGupta)
-- LinkedIn: [Anubhav Kumar Gupta(https://www.linkedin.com/in/anubhav2109/)
+- LinkedIn: (https://www.linkedin.com/in/anubhav2109/)
 
 ---
 
